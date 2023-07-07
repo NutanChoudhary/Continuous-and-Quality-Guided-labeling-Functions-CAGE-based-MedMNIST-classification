@@ -1,0 +1,1407 @@
+CAGE log:	n_classes: 3	n_LFs: 15	n_epochs: 100	lr: 0.01
+Epoch: 0	test_accuracy_score: 0.9977011494252873
+Epoch: 0	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 1	test_accuracy_score: 0.9977011494252873
+Epoch: 1	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 2	test_accuracy_score: 0.9977011494252873
+Epoch: 2	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 3	test_accuracy_score: 0.9977011494252873
+Epoch: 3	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 4	test_accuracy_score: 0.9977011494252873
+Epoch: 4	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 5	test_accuracy_score: 0.9977011494252873
+Epoch: 5	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 6	test_accuracy_score: 0.9977011494252873
+Epoch: 6	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 7	test_accuracy_score: 0.9977011494252873
+Epoch: 7	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 8	test_accuracy_score: 0.9977011494252873
+Epoch: 8	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 9	test_accuracy_score: 0.9977011494252873
+Epoch: 9	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 10	test_accuracy_score: 0.9977011494252873
+Epoch: 10	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 11	test_accuracy_score: 0.9977011494252873
+Epoch: 11	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 12	test_accuracy_score: 0.9977011494252873
+Epoch: 12	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 13	test_accuracy_score: 0.9977011494252873
+Epoch: 13	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 14	test_accuracy_score: 0.9977011494252873
+Epoch: 14	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 15	test_accuracy_score: 0.9977011494252873
+Epoch: 15	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 16	test_accuracy_score: 0.9977011494252873
+Epoch: 16	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 17	test_accuracy_score: 0.9977011494252873
+Epoch: 17	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 18	test_accuracy_score: 0.9977011494252873
+Epoch: 18	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 19	test_accuracy_score: 0.9977011494252873
+Epoch: 19	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 20	test_accuracy_score: 0.9977011494252873
+Epoch: 20	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 21	test_accuracy_score: 0.9977011494252873
+Epoch: 21	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 22	test_accuracy_score: 0.9977011494252873
+Epoch: 22	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 23	test_accuracy_score: 0.9977011494252873
+Epoch: 23	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 24	test_accuracy_score: 0.9977011494252873
+Epoch: 24	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 25	test_accuracy_score: 0.9977011494252873
+Epoch: 25	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 26	test_accuracy_score: 0.9977011494252873
+Epoch: 26	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 27	test_accuracy_score: 0.9977011494252873
+Epoch: 27	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 28	test_accuracy_score: 0.9977011494252873
+Epoch: 28	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 29	test_accuracy_score: 0.9977011494252873
+Epoch: 29	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 30	test_accuracy_score: 0.9977011494252873
+Epoch: 30	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 31	test_accuracy_score: 0.9977011494252873
+Epoch: 31	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 32	test_accuracy_score: 0.9977011494252873
+Epoch: 32	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 33	test_accuracy_score: 0.9977011494252873
+Epoch: 33	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 34	test_accuracy_score: 0.9977011494252873
+Epoch: 34	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 35	test_accuracy_score: 0.9977011494252873
+Epoch: 35	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 36	test_accuracy_score: 0.9977011494252873
+Epoch: 36	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 37	test_accuracy_score: 0.9977011494252873
+Epoch: 37	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 38	test_accuracy_score: 0.9977011494252873
+Epoch: 38	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 39	test_accuracy_score: 0.9977011494252873
+Epoch: 39	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 40	test_accuracy_score: 0.9977011494252873
+Epoch: 40	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 41	test_accuracy_score: 0.9977011494252873
+Epoch: 41	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 42	test_accuracy_score: 0.9977011494252873
+Epoch: 42	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 43	test_accuracy_score: 0.9977011494252873
+Epoch: 43	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 44	test_accuracy_score: 0.9977011494252873
+Epoch: 44	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 45	test_accuracy_score: 0.9977011494252873
+Epoch: 45	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 46	test_accuracy_score: 0.9977011494252873
+Epoch: 46	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 47	test_accuracy_score: 0.9977011494252873
+Epoch: 47	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 48	test_accuracy_score: 0.9977011494252873
+Epoch: 48	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 49	test_accuracy_score: 0.9977011494252873
+Epoch: 49	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 50	test_accuracy_score: 0.9977011494252873
+Epoch: 50	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 51	test_accuracy_score: 0.9977011494252873
+Epoch: 51	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 52	test_accuracy_score: 0.9977011494252873
+Epoch: 52	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 53	test_accuracy_score: 0.9977011494252873
+Epoch: 53	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 54	test_accuracy_score: 0.9977011494252873
+Epoch: 54	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 55	test_accuracy_score: 0.9977011494252873
+Epoch: 55	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 56	test_accuracy_score: 0.9977011494252873
+Epoch: 56	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 57	test_accuracy_score: 0.9977011494252873
+Epoch: 57	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 58	test_accuracy_score: 0.9977011494252873
+Epoch: 58	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 59	test_accuracy_score: 0.9977011494252873
+Epoch: 59	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 60	test_accuracy_score: 0.9977011494252873
+Epoch: 60	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 61	test_accuracy_score: 0.9977011494252873
+Epoch: 61	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 62	test_accuracy_score: 0.9977011494252873
+Epoch: 62	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 63	test_accuracy_score: 0.9977011494252873
+Epoch: 63	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 64	test_accuracy_score: 0.9977011494252873
+Epoch: 64	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 65	test_accuracy_score: 0.9977011494252873
+Epoch: 65	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 66	test_accuracy_score: 0.9977011494252873
+Epoch: 66	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 67	test_accuracy_score: 0.9977011494252873
+Epoch: 67	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 68	test_accuracy_score: 0.9977011494252873
+Epoch: 68	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 69	test_accuracy_score: 0.9977011494252873
+Epoch: 69	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 70	test_accuracy_score: 0.9977011494252873
+Epoch: 70	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 71	test_accuracy_score: 0.9977011494252873
+Epoch: 71	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 72	test_accuracy_score: 0.9977011494252873
+Epoch: 72	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 73	test_accuracy_score: 0.9977011494252873
+Epoch: 73	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 74	test_accuracy_score: 0.9977011494252873
+Epoch: 74	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 75	test_accuracy_score: 0.9977011494252873
+Epoch: 75	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 76	test_accuracy_score: 0.9977011494252873
+Epoch: 76	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 77	test_accuracy_score: 0.9977011494252873
+Epoch: 77	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 78	test_accuracy_score: 0.9977011494252873
+Epoch: 78	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 79	test_accuracy_score: 0.9977011494252873
+Epoch: 79	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 80	test_accuracy_score: 0.9977011494252873
+Epoch: 80	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 81	test_accuracy_score: 0.9977011494252873
+Epoch: 81	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 82	test_accuracy_score: 0.9977011494252873
+Epoch: 82	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 83	test_accuracy_score: 0.9977011494252873
+Epoch: 83	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 84	test_accuracy_score: 0.9977011494252873
+Epoch: 84	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 85	test_accuracy_score: 0.9977011494252873
+Epoch: 85	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 86	test_accuracy_score: 0.9977011494252873
+Epoch: 86	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 87	test_accuracy_score: 0.9977011494252873
+Epoch: 87	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 88	test_accuracy_score: 0.9977011494252873
+Epoch: 88	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 89	test_accuracy_score: 0.9977011494252873
+Epoch: 89	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 90	test_accuracy_score: 0.9977011494252873
+Epoch: 90	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 91	test_accuracy_score: 0.9977011494252873
+Epoch: 91	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 92	test_accuracy_score: 0.9977011494252873
+Epoch: 92	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 93	test_accuracy_score: 0.9977011494252873
+Epoch: 93	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 94	test_accuracy_score: 0.9977011494252873
+Epoch: 94	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 95	test_accuracy_score: 0.9977011494252873
+Epoch: 95	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 96	test_accuracy_score: 0.9977011494252873
+Epoch: 96	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 97	test_accuracy_score: 0.9977011494252873
+Epoch: 97	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 98	test_accuracy_score: 0.9977011494252873
+Epoch: 98	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 99	test_accuracy_score: 0.9977011494252873
+Epoch: 99	test_average_metric: macro	test_f1_score: 0.997701122090235
+CAGE log:	n_classes: 3	n_LFs: 15	n_epochs: 100	lr: 0.01
+Epoch: 0	test_accuracy_score: 0.9982905982905983
+Epoch: 0	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 1	test_accuracy_score: 0.9982905982905983
+Epoch: 1	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 2	test_accuracy_score: 0.9982905982905983
+Epoch: 2	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 3	test_accuracy_score: 0.9982905982905983
+Epoch: 3	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 4	test_accuracy_score: 0.9982905982905983
+Epoch: 4	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 5	test_accuracy_score: 0.9982905982905983
+Epoch: 5	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 6	test_accuracy_score: 0.9982905982905983
+Epoch: 6	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 7	test_accuracy_score: 0.9982905982905983
+Epoch: 7	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 8	test_accuracy_score: 0.9982905982905983
+Epoch: 8	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 9	test_accuracy_score: 0.9982905982905983
+Epoch: 9	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 10	test_accuracy_score: 0.9982905982905983
+Epoch: 10	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 11	test_accuracy_score: 0.9982905982905983
+Epoch: 11	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 12	test_accuracy_score: 0.9982905982905983
+Epoch: 12	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 13	test_accuracy_score: 0.9982905982905983
+Epoch: 13	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 14	test_accuracy_score: 0.9982905982905983
+Epoch: 14	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 15	test_accuracy_score: 0.9982905982905983
+Epoch: 15	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 16	test_accuracy_score: 0.9982905982905983
+Epoch: 16	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 17	test_accuracy_score: 0.9982905982905983
+Epoch: 17	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 18	test_accuracy_score: 0.9982905982905983
+Epoch: 18	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 19	test_accuracy_score: 0.9982905982905983
+Epoch: 19	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 20	test_accuracy_score: 0.9982905982905983
+Epoch: 20	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 21	test_accuracy_score: 0.9982905982905983
+Epoch: 21	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 22	test_accuracy_score: 0.9982905982905983
+Epoch: 22	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 23	test_accuracy_score: 0.9982905982905983
+Epoch: 23	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 24	test_accuracy_score: 0.9982905982905983
+Epoch: 24	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 25	test_accuracy_score: 0.9982905982905983
+Epoch: 25	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 26	test_accuracy_score: 0.9982905982905983
+Epoch: 26	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 27	test_accuracy_score: 0.9982905982905983
+Epoch: 27	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 28	test_accuracy_score: 0.9982905982905983
+Epoch: 28	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 29	test_accuracy_score: 0.9982905982905983
+Epoch: 29	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 30	test_accuracy_score: 0.9982905982905983
+Epoch: 30	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 31	test_accuracy_score: 0.9982905982905983
+Epoch: 31	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 32	test_accuracy_score: 0.9982905982905983
+Epoch: 32	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 33	test_accuracy_score: 0.9982905982905983
+Epoch: 33	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 34	test_accuracy_score: 0.9982905982905983
+Epoch: 34	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 35	test_accuracy_score: 0.9982905982905983
+Epoch: 35	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 36	test_accuracy_score: 0.9982905982905983
+Epoch: 36	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 37	test_accuracy_score: 0.9982905982905983
+Epoch: 37	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 38	test_accuracy_score: 0.9982905982905983
+Epoch: 38	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 39	test_accuracy_score: 0.9982905982905983
+Epoch: 39	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 40	test_accuracy_score: 0.9982905982905983
+Epoch: 40	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 41	test_accuracy_score: 0.9982905982905983
+Epoch: 41	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 42	test_accuracy_score: 0.9982905982905983
+Epoch: 42	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 43	test_accuracy_score: 0.9982905982905983
+Epoch: 43	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 44	test_accuracy_score: 0.9982905982905983
+Epoch: 44	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 45	test_accuracy_score: 0.9982905982905983
+Epoch: 45	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 46	test_accuracy_score: 0.9982905982905983
+Epoch: 46	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 47	test_accuracy_score: 0.9982905982905983
+Epoch: 47	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 48	test_accuracy_score: 0.9982905982905983
+Epoch: 48	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 49	test_accuracy_score: 0.9982905982905983
+Epoch: 49	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 50	test_accuracy_score: 0.9982905982905983
+Epoch: 50	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 51	test_accuracy_score: 0.9982905982905983
+Epoch: 51	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 52	test_accuracy_score: 0.9982905982905983
+Epoch: 52	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 53	test_accuracy_score: 0.9982905982905983
+Epoch: 53	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 54	test_accuracy_score: 0.9982905982905983
+Epoch: 54	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 55	test_accuracy_score: 0.9982905982905983
+Epoch: 55	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 56	test_accuracy_score: 0.9982905982905983
+Epoch: 56	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 57	test_accuracy_score: 0.9982905982905983
+Epoch: 57	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 58	test_accuracy_score: 0.9982905982905983
+Epoch: 58	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 59	test_accuracy_score: 0.9982905982905983
+Epoch: 59	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 60	test_accuracy_score: 0.9982905982905983
+Epoch: 60	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 61	test_accuracy_score: 0.9982905982905983
+Epoch: 61	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 62	test_accuracy_score: 0.9982905982905983
+Epoch: 62	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 63	test_accuracy_score: 0.9982905982905983
+Epoch: 63	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 64	test_accuracy_score: 0.9982905982905983
+Epoch: 64	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 65	test_accuracy_score: 0.9982905982905983
+Epoch: 65	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 66	test_accuracy_score: 0.9982905982905983
+Epoch: 66	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 67	test_accuracy_score: 0.9982905982905983
+Epoch: 67	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 68	test_accuracy_score: 0.9982905982905983
+Epoch: 68	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 69	test_accuracy_score: 0.9982905982905983
+Epoch: 69	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 70	test_accuracy_score: 0.9982905982905983
+Epoch: 70	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 71	test_accuracy_score: 0.9982905982905983
+Epoch: 71	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 72	test_accuracy_score: 0.9982905982905983
+Epoch: 72	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 73	test_accuracy_score: 0.9982905982905983
+Epoch: 73	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 74	test_accuracy_score: 0.9982905982905983
+Epoch: 74	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 75	test_accuracy_score: 0.9982905982905983
+Epoch: 75	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 76	test_accuracy_score: 0.9982905982905983
+Epoch: 76	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 77	test_accuracy_score: 0.9982905982905983
+Epoch: 77	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 78	test_accuracy_score: 0.9982905982905983
+Epoch: 78	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 79	test_accuracy_score: 0.9982905982905983
+Epoch: 79	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 80	test_accuracy_score: 0.9982905982905983
+Epoch: 80	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 81	test_accuracy_score: 0.9982905982905983
+Epoch: 81	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 82	test_accuracy_score: 0.9982905982905983
+Epoch: 82	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 83	test_accuracy_score: 0.9982905982905983
+Epoch: 83	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 84	test_accuracy_score: 0.9982905982905983
+Epoch: 84	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 85	test_accuracy_score: 0.9982905982905983
+Epoch: 85	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 86	test_accuracy_score: 0.9982905982905983
+Epoch: 86	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 87	test_accuracy_score: 0.9982905982905983
+Epoch: 87	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 88	test_accuracy_score: 0.9982905982905983
+Epoch: 88	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 89	test_accuracy_score: 0.9982905982905983
+Epoch: 89	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 90	test_accuracy_score: 0.9982905982905983
+Epoch: 90	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 91	test_accuracy_score: 0.9982905982905983
+Epoch: 91	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 92	test_accuracy_score: 0.9982905982905983
+Epoch: 92	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 93	test_accuracy_score: 0.9982905982905983
+Epoch: 93	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 94	test_accuracy_score: 0.9982905982905983
+Epoch: 94	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 95	test_accuracy_score: 0.9982905982905983
+Epoch: 95	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 96	test_accuracy_score: 0.9982905982905983
+Epoch: 96	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 97	test_accuracy_score: 0.9982905982905983
+Epoch: 97	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 98	test_accuracy_score: 0.9982905982905983
+Epoch: 98	test_average_metric: macro	test_f1_score: 0.9982905870518545
+Epoch: 99	test_accuracy_score: 0.9982905982905983
+Epoch: 99	test_average_metric: macro	test_f1_score: 0.9982905870518545
+CAGE log:	n_classes: 3	n_LFs: 15	n_epochs: 100	lr: 0.01
+Epoch: 0	test_accuracy_score: 0.9945578231292517
+Epoch: 0	test_average_metric: macro	test_f1_score: 0.9945658933206664
+Epoch: 1	test_accuracy_score: 0.9945578231292517
+Epoch: 1	test_average_metric: macro	test_f1_score: 0.9945658933206664
+Epoch: 2	test_accuracy_score: 0.9945578231292517
+Epoch: 2	test_average_metric: macro	test_f1_score: 0.9945658933206664
+Epoch: 3	test_accuracy_score: 0.9945578231292517
+Epoch: 3	test_average_metric: macro	test_f1_score: 0.9945658933206664
+Epoch: 4	test_accuracy_score: 0.9931972789115646
+Epoch: 4	test_average_metric: macro	test_f1_score: 0.9932054050820923
+Epoch: 5	test_accuracy_score: 0.9931972789115646
+Epoch: 5	test_average_metric: macro	test_f1_score: 0.9932054050820923
+Epoch: 6	test_accuracy_score: 0.9931972789115646
+Epoch: 6	test_average_metric: macro	test_f1_score: 0.9932054050820923
+Epoch: 7	test_accuracy_score: 0.9931972789115646
+Epoch: 7	test_average_metric: macro	test_f1_score: 0.9932054050820923
+Epoch: 8	test_accuracy_score: 0.9931972789115646
+Epoch: 8	test_average_metric: macro	test_f1_score: 0.9932054050820923
+Epoch: 9	test_accuracy_score: 0.9918367346938776
+Epoch: 9	test_average_metric: macro	test_f1_score: 0.991842174694748
+Epoch: 10	test_accuracy_score: 0.9918367346938776
+Epoch: 10	test_average_metric: macro	test_f1_score: 0.991842174694748
+Epoch: 11	test_accuracy_score: 0.9918367346938776
+Epoch: 11	test_average_metric: macro	test_f1_score: 0.991842174694748
+Epoch: 12	test_accuracy_score: 0.9918367346938776
+Epoch: 12	test_average_metric: macro	test_f1_score: 0.991842174694748
+Epoch: 13	test_accuracy_score: 0.9918367346938776
+Epoch: 13	test_average_metric: macro	test_f1_score: 0.991842174694748
+Epoch: 14	test_accuracy_score: 0.9918367346938776
+Epoch: 14	test_average_metric: macro	test_f1_score: 0.991842174694748
+Epoch: 15	test_accuracy_score: 0.9918367346938776
+Epoch: 15	test_average_metric: macro	test_f1_score: 0.991842174694748
+Epoch: 16	test_accuracy_score: 0.9918367346938776
+Epoch: 16	test_average_metric: macro	test_f1_score: 0.991842174694748
+Epoch: 17	test_accuracy_score: 0.9918367346938776
+Epoch: 17	test_average_metric: macro	test_f1_score: 0.991842174694748
+Epoch: 18	test_accuracy_score: 0.9918367346938776
+Epoch: 18	test_average_metric: macro	test_f1_score: 0.991842174694748
+Epoch: 19	test_accuracy_score: 0.9918367346938776
+Epoch: 19	test_average_metric: macro	test_f1_score: 0.991842174694748
+Epoch: 20	test_accuracy_score: 0.9918367346938776
+Epoch: 20	test_average_metric: macro	test_f1_score: 0.991842174694748
+Epoch: 21	test_accuracy_score: 0.9904761904761905
+Epoch: 21	test_average_metric: macro	test_f1_score: 0.9904842146445777
+Epoch: 22	test_accuracy_score: 0.9904761904761905
+Epoch: 22	test_average_metric: macro	test_f1_score: 0.9904842146445777
+Epoch: 23	test_accuracy_score: 0.9904761904761905
+Epoch: 23	test_average_metric: macro	test_f1_score: 0.9904842146445777
+Epoch: 24	test_accuracy_score: 0.9904761904761905
+Epoch: 24	test_average_metric: macro	test_f1_score: 0.9904842146445777
+Epoch: 25	test_accuracy_score: 0.9904761904761905
+Epoch: 25	test_average_metric: macro	test_f1_score: 0.9904842146445777
+Epoch: 26	test_accuracy_score: 0.9904761904761905
+Epoch: 26	test_average_metric: macro	test_f1_score: 0.9904842146445777
+Epoch: 27	test_accuracy_score: 0.9904761904761905
+Epoch: 27	test_average_metric: macro	test_f1_score: 0.9904842146445777
+Epoch: 28	test_accuracy_score: 0.9904761904761905
+Epoch: 28	test_average_metric: macro	test_f1_score: 0.9904842146445777
+Epoch: 29	test_accuracy_score: 0.9904761904761905
+Epoch: 29	test_average_metric: macro	test_f1_score: 0.9904842146445777
+Epoch: 30	test_accuracy_score: 0.9904761904761905
+Epoch: 30	test_average_metric: macro	test_f1_score: 0.9904842146445777
+Epoch: 31	test_accuracy_score: 0.9904761904761905
+Epoch: 31	test_average_metric: macro	test_f1_score: 0.9904842146445777
+Epoch: 32	test_accuracy_score: 0.9904761904761905
+Epoch: 32	test_average_metric: macro	test_f1_score: 0.9904842146445777
+Epoch: 33	test_accuracy_score: 0.9891156462585035
+Epoch: 33	test_average_metric: macro	test_f1_score: 0.9891210409260331
+Epoch: 34	test_accuracy_score: 0.9891156462585035
+Epoch: 34	test_average_metric: macro	test_f1_score: 0.9891210409260331
+Epoch: 35	test_accuracy_score: 0.9891156462585035
+Epoch: 35	test_average_metric: macro	test_f1_score: 0.9891210409260331
+Epoch: 36	test_accuracy_score: 0.9891156462585035
+Epoch: 36	test_average_metric: macro	test_f1_score: 0.9891210409260331
+Epoch: 37	test_accuracy_score: 0.9891156462585035
+Epoch: 37	test_average_metric: macro	test_f1_score: 0.9891210409260331
+Epoch: 38	test_accuracy_score: 0.9891156462585035
+Epoch: 38	test_average_metric: macro	test_f1_score: 0.9891210409260331
+Epoch: 39	test_accuracy_score: 0.9891156462585035
+Epoch: 39	test_average_metric: macro	test_f1_score: 0.9891210409260331
+Epoch: 40	test_accuracy_score: 0.9891156462585035
+Epoch: 40	test_average_metric: macro	test_f1_score: 0.9891210409260331
+Epoch: 41	test_accuracy_score: 0.9877551020408163
+Epoch: 41	test_average_metric: macro	test_f1_score: 0.9877520470441764
+Epoch: 42	test_accuracy_score: 0.9877551020408163
+Epoch: 42	test_average_metric: macro	test_f1_score: 0.9877520470441764
+Epoch: 43	test_accuracy_score: 0.9877551020408163
+Epoch: 43	test_average_metric: macro	test_f1_score: 0.9877520470441764
+Epoch: 44	test_accuracy_score: 0.9877551020408163
+Epoch: 44	test_average_metric: macro	test_f1_score: 0.9877520470441764
+Epoch: 45	test_accuracy_score: 0.9877551020408163
+Epoch: 45	test_average_metric: macro	test_f1_score: 0.9877520470441764
+Epoch: 46	test_accuracy_score: 0.9877551020408163
+Epoch: 46	test_average_metric: macro	test_f1_score: 0.9877520470441764
+Epoch: 47	test_accuracy_score: 0.9877551020408163
+Epoch: 47	test_average_metric: macro	test_f1_score: 0.9877520470441764
+Epoch: 48	test_accuracy_score: 0.9877551020408163
+Epoch: 48	test_average_metric: macro	test_f1_score: 0.9877520470441764
+Epoch: 49	test_accuracy_score: 0.9863945578231292
+Epoch: 49	test_average_metric: macro	test_f1_score: 0.9863829502492556
+Epoch: 50	test_accuracy_score: 0.9863945578231292
+Epoch: 50	test_average_metric: macro	test_f1_score: 0.9863829502492556
+Epoch: 51	test_accuracy_score: 0.9863945578231292
+Epoch: 51	test_average_metric: macro	test_f1_score: 0.9863829502492556
+Epoch: 52	test_accuracy_score: 0.9863945578231292
+Epoch: 52	test_average_metric: macro	test_f1_score: 0.9863829502492556
+Epoch: 53	test_accuracy_score: 0.9863945578231292
+Epoch: 53	test_average_metric: macro	test_f1_score: 0.9863829502492556
+Epoch: 54	test_accuracy_score: 0.9863945578231292
+Epoch: 54	test_average_metric: macro	test_f1_score: 0.9863829502492556
+Epoch: 55	test_accuracy_score: 0.9863945578231292
+Epoch: 55	test_average_metric: macro	test_f1_score: 0.9863829502492556
+Epoch: 56	test_accuracy_score: 0.9850340136054422
+Epoch: 56	test_average_metric: macro	test_f1_score: 0.9850223893067959
+Epoch: 57	test_accuracy_score: 0.9850340136054422
+Epoch: 57	test_average_metric: macro	test_f1_score: 0.9850223893067959
+Epoch: 58	test_accuracy_score: 0.9850340136054422
+Epoch: 58	test_average_metric: macro	test_f1_score: 0.9850223893067959
+Epoch: 59	test_accuracy_score: 0.9850340136054422
+Epoch: 59	test_average_metric: macro	test_f1_score: 0.9850223893067959
+Epoch: 60	test_accuracy_score: 0.9850340136054422
+Epoch: 60	test_average_metric: macro	test_f1_score: 0.9850223893067959
+Epoch: 61	test_accuracy_score: 0.9850340136054422
+Epoch: 61	test_average_metric: macro	test_f1_score: 0.9850223893067959
+Epoch: 62	test_accuracy_score: 0.9850340136054422
+Epoch: 62	test_average_metric: macro	test_f1_score: 0.9850223893067959
+Epoch: 63	test_accuracy_score: 0.9850340136054422
+Epoch: 63	test_average_metric: macro	test_f1_score: 0.9850223893067959
+Epoch: 64	test_accuracy_score: 0.9850340136054422
+Epoch: 64	test_average_metric: macro	test_f1_score: 0.9850223893067959
+Epoch: 65	test_accuracy_score: 0.9850340136054422
+Epoch: 65	test_average_metric: macro	test_f1_score: 0.9850223893067959
+Epoch: 66	test_accuracy_score: 0.9850340136054422
+Epoch: 66	test_average_metric: macro	test_f1_score: 0.9850223893067959
+Epoch: 67	test_accuracy_score: 0.9850340136054422
+Epoch: 67	test_average_metric: macro	test_f1_score: 0.9850223893067959
+Epoch: 68	test_accuracy_score: 0.9850340136054422
+Epoch: 68	test_average_metric: macro	test_f1_score: 0.9850223893067959
+Epoch: 69	test_accuracy_score: 0.9850340136054422
+Epoch: 69	test_average_metric: macro	test_f1_score: 0.9850223893067959
+Epoch: 70	test_accuracy_score: 0.9850340136054422
+Epoch: 70	test_average_metric: macro	test_f1_score: 0.9850223893067959
+Epoch: 71	test_accuracy_score: 0.9850340136054422
+Epoch: 71	test_average_metric: macro	test_f1_score: 0.9850223893067959
+Epoch: 72	test_accuracy_score: 0.9850340136054422
+Epoch: 72	test_average_metric: macro	test_f1_score: 0.9850223893067959
+Epoch: 73	test_accuracy_score: 0.9850340136054422
+Epoch: 73	test_average_metric: macro	test_f1_score: 0.9850223893067959
+Epoch: 74	test_accuracy_score: 0.9850340136054422
+Epoch: 74	test_average_metric: macro	test_f1_score: 0.9850223893067959
+Epoch: 75	test_accuracy_score: 0.9850340136054422
+Epoch: 75	test_average_metric: macro	test_f1_score: 0.9850223893067959
+Epoch: 76	test_accuracy_score: 0.9850340136054422
+Epoch: 76	test_average_metric: macro	test_f1_score: 0.9850223893067959
+Epoch: 77	test_accuracy_score: 0.9850340136054422
+Epoch: 77	test_average_metric: macro	test_f1_score: 0.9850223893067959
+Epoch: 78	test_accuracy_score: 0.9850340136054422
+Epoch: 78	test_average_metric: macro	test_f1_score: 0.9850223893067959
+Epoch: 79	test_accuracy_score: 0.9850340136054422
+Epoch: 79	test_average_metric: macro	test_f1_score: 0.9850223893067959
+Epoch: 80	test_accuracy_score: 0.9850340136054422
+Epoch: 80	test_average_metric: macro	test_f1_score: 0.9850223893067959
+Epoch: 81	test_accuracy_score: 0.9850340136054422
+Epoch: 81	test_average_metric: macro	test_f1_score: 0.9850223893067959
+Epoch: 82	test_accuracy_score: 0.9850340136054422
+Epoch: 82	test_average_metric: macro	test_f1_score: 0.9850223893067959
+Epoch: 83	test_accuracy_score: 0.9850340136054422
+Epoch: 83	test_average_metric: macro	test_f1_score: 0.9850223893067959
+Epoch: 84	test_accuracy_score: 0.9850340136054422
+Epoch: 84	test_average_metric: macro	test_f1_score: 0.9850223893067959
+Epoch: 85	test_accuracy_score: 0.9850340136054422
+Epoch: 85	test_average_metric: macro	test_f1_score: 0.9850223893067959
+Epoch: 86	test_accuracy_score: 0.9850340136054422
+Epoch: 86	test_average_metric: macro	test_f1_score: 0.9850223893067959
+Epoch: 87	test_accuracy_score: 0.9850340136054422
+Epoch: 87	test_average_metric: macro	test_f1_score: 0.9850223893067959
+Epoch: 88	test_accuracy_score: 0.9850340136054422
+Epoch: 88	test_average_metric: macro	test_f1_score: 0.9850223893067959
+Epoch: 89	test_accuracy_score: 0.9850340136054422
+Epoch: 89	test_average_metric: macro	test_f1_score: 0.9850223893067959
+Epoch: 90	test_accuracy_score: 0.9850340136054422
+Epoch: 90	test_average_metric: macro	test_f1_score: 0.9850223893067959
+Epoch: 91	test_accuracy_score: 0.9850340136054422
+Epoch: 91	test_average_metric: macro	test_f1_score: 0.9850223893067959
+Epoch: 92	test_accuracy_score: 0.9850340136054422
+Epoch: 92	test_average_metric: macro	test_f1_score: 0.9850223893067959
+Epoch: 93	test_accuracy_score: 0.9850340136054422
+Epoch: 93	test_average_metric: macro	test_f1_score: 0.9850223893067959
+Epoch: 94	test_accuracy_score: 0.9850340136054422
+Epoch: 94	test_average_metric: macro	test_f1_score: 0.9850223893067959
+Epoch: 95	test_accuracy_score: 0.9850340136054422
+Epoch: 95	test_average_metric: macro	test_f1_score: 0.9850223893067959
+Epoch: 96	test_accuracy_score: 0.9850340136054422
+Epoch: 96	test_average_metric: macro	test_f1_score: 0.9850223893067959
+Epoch: 97	test_accuracy_score: 0.9850340136054422
+Epoch: 97	test_average_metric: macro	test_f1_score: 0.9850223893067959
+Epoch: 98	test_accuracy_score: 0.9850340136054422
+Epoch: 98	test_average_metric: macro	test_f1_score: 0.9850223893067959
+Epoch: 99	test_accuracy_score: 0.9850340136054422
+Epoch: 99	test_average_metric: macro	test_f1_score: 0.9850223893067959
+CAGE log:	n_classes: 3	n_LFs: 15	n_epochs: 100	lr: 0.01
+Epoch: 0	test_accuracy_score: 0.9977011494252873
+Epoch: 0	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 1	test_accuracy_score: 0.9977011494252873
+Epoch: 1	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 2	test_accuracy_score: 0.9977011494252873
+Epoch: 2	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 3	test_accuracy_score: 0.9977011494252873
+Epoch: 3	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 4	test_accuracy_score: 0.9977011494252873
+Epoch: 4	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 5	test_accuracy_score: 0.9977011494252873
+Epoch: 5	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 6	test_accuracy_score: 0.9977011494252873
+Epoch: 6	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 7	test_accuracy_score: 0.9977011494252873
+Epoch: 7	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 8	test_accuracy_score: 0.9977011494252873
+Epoch: 8	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 9	test_accuracy_score: 0.9977011494252873
+Epoch: 9	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 10	test_accuracy_score: 0.9977011494252873
+Epoch: 10	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 11	test_accuracy_score: 0.9977011494252873
+Epoch: 11	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 12	test_accuracy_score: 0.9977011494252873
+Epoch: 12	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 13	test_accuracy_score: 0.9977011494252873
+Epoch: 13	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 14	test_accuracy_score: 0.9977011494252873
+Epoch: 14	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 15	test_accuracy_score: 0.9977011494252873
+Epoch: 15	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 16	test_accuracy_score: 0.9977011494252873
+Epoch: 16	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 17	test_accuracy_score: 0.9977011494252873
+Epoch: 17	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 18	test_accuracy_score: 0.9977011494252873
+Epoch: 18	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 19	test_accuracy_score: 0.9977011494252873
+Epoch: 19	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 20	test_accuracy_score: 0.9977011494252873
+Epoch: 20	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 21	test_accuracy_score: 0.9977011494252873
+Epoch: 21	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 22	test_accuracy_score: 0.9977011494252873
+Epoch: 22	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 23	test_accuracy_score: 0.9977011494252873
+Epoch: 23	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 24	test_accuracy_score: 0.9977011494252873
+Epoch: 24	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 25	test_accuracy_score: 0.9977011494252873
+Epoch: 25	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 26	test_accuracy_score: 0.9977011494252873
+Epoch: 26	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 27	test_accuracy_score: 0.9977011494252873
+Epoch: 27	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 28	test_accuracy_score: 0.9977011494252873
+Epoch: 28	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 29	test_accuracy_score: 0.9977011494252873
+Epoch: 29	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 30	test_accuracy_score: 0.9977011494252873
+Epoch: 30	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 31	test_accuracy_score: 0.9977011494252873
+Epoch: 31	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 32	test_accuracy_score: 0.9977011494252873
+Epoch: 32	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 33	test_accuracy_score: 0.9977011494252873
+Epoch: 33	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 34	test_accuracy_score: 0.9977011494252873
+Epoch: 34	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 35	test_accuracy_score: 0.9977011494252873
+Epoch: 35	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 36	test_accuracy_score: 0.9977011494252873
+Epoch: 36	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 37	test_accuracy_score: 0.9977011494252873
+Epoch: 37	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 38	test_accuracy_score: 0.9977011494252873
+Epoch: 38	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 39	test_accuracy_score: 0.9977011494252873
+Epoch: 39	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 40	test_accuracy_score: 0.9977011494252873
+Epoch: 40	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 41	test_accuracy_score: 0.9977011494252873
+Epoch: 41	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 42	test_accuracy_score: 0.9977011494252873
+Epoch: 42	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 43	test_accuracy_score: 0.9977011494252873
+Epoch: 43	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 44	test_accuracy_score: 0.9977011494252873
+Epoch: 44	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 45	test_accuracy_score: 0.9977011494252873
+Epoch: 45	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 46	test_accuracy_score: 0.9977011494252873
+Epoch: 46	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 47	test_accuracy_score: 0.9977011494252873
+Epoch: 47	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 48	test_accuracy_score: 0.9977011494252873
+Epoch: 48	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 49	test_accuracy_score: 0.9977011494252873
+Epoch: 49	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 50	test_accuracy_score: 0.9977011494252873
+Epoch: 50	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 51	test_accuracy_score: 0.9977011494252873
+Epoch: 51	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 52	test_accuracy_score: 0.9977011494252873
+Epoch: 52	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 53	test_accuracy_score: 0.9977011494252873
+Epoch: 53	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 54	test_accuracy_score: 0.9977011494252873
+Epoch: 54	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 55	test_accuracy_score: 0.9977011494252873
+Epoch: 55	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 56	test_accuracy_score: 0.9977011494252873
+Epoch: 56	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 57	test_accuracy_score: 0.9977011494252873
+Epoch: 57	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 58	test_accuracy_score: 0.9977011494252873
+Epoch: 58	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 59	test_accuracy_score: 0.9977011494252873
+Epoch: 59	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 60	test_accuracy_score: 0.9977011494252873
+Epoch: 60	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 61	test_accuracy_score: 0.9977011494252873
+Epoch: 61	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 62	test_accuracy_score: 0.9977011494252873
+Epoch: 62	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 63	test_accuracy_score: 0.9977011494252873
+Epoch: 63	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 64	test_accuracy_score: 0.9977011494252873
+Epoch: 64	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 65	test_accuracy_score: 0.9977011494252873
+Epoch: 65	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 66	test_accuracy_score: 0.9977011494252873
+Epoch: 66	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 67	test_accuracy_score: 0.9977011494252873
+Epoch: 67	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 68	test_accuracy_score: 0.9977011494252873
+Epoch: 68	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 69	test_accuracy_score: 0.9977011494252873
+Epoch: 69	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 70	test_accuracy_score: 0.9977011494252873
+Epoch: 70	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 71	test_accuracy_score: 0.9977011494252873
+Epoch: 71	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 72	test_accuracy_score: 0.9977011494252873
+Epoch: 72	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 73	test_accuracy_score: 0.9977011494252873
+Epoch: 73	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 74	test_accuracy_score: 0.9977011494252873
+Epoch: 74	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 75	test_accuracy_score: 0.9977011494252873
+Epoch: 75	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 76	test_accuracy_score: 0.9977011494252873
+Epoch: 76	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 77	test_accuracy_score: 0.9977011494252873
+Epoch: 77	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 78	test_accuracy_score: 0.9977011494252873
+Epoch: 78	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 79	test_accuracy_score: 0.9977011494252873
+Epoch: 79	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 80	test_accuracy_score: 0.9977011494252873
+Epoch: 80	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 81	test_accuracy_score: 0.9977011494252873
+Epoch: 81	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 82	test_accuracy_score: 0.9977011494252873
+Epoch: 82	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 83	test_accuracy_score: 0.9977011494252873
+Epoch: 83	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 84	test_accuracy_score: 0.9977011494252873
+Epoch: 84	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 85	test_accuracy_score: 0.9977011494252873
+Epoch: 85	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 86	test_accuracy_score: 0.9977011494252873
+Epoch: 86	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 87	test_accuracy_score: 0.9977011494252873
+Epoch: 87	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 88	test_accuracy_score: 0.9977011494252873
+Epoch: 88	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 89	test_accuracy_score: 0.9977011494252873
+Epoch: 89	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 90	test_accuracy_score: 0.9977011494252873
+Epoch: 90	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 91	test_accuracy_score: 0.9977011494252873
+Epoch: 91	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 92	test_accuracy_score: 0.9977011494252873
+Epoch: 92	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 93	test_accuracy_score: 0.9977011494252873
+Epoch: 93	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 94	test_accuracy_score: 0.9977011494252873
+Epoch: 94	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 95	test_accuracy_score: 0.9977011494252873
+Epoch: 95	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 96	test_accuracy_score: 0.9977011494252873
+Epoch: 96	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 97	test_accuracy_score: 0.9977011494252873
+Epoch: 97	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 98	test_accuracy_score: 0.9977011494252873
+Epoch: 98	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 99	test_accuracy_score: 0.9977011494252873
+Epoch: 99	test_average_metric: macro	test_f1_score: 0.997701122090235
+CAGE log:	n_classes: 3	n_LFs: 15	n_epochs: 100	lr: 0.01
+Epoch: 0	test_accuracy_score: 0.9977011494252873
+Epoch: 0	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 1	test_accuracy_score: 0.9977011494252873
+Epoch: 1	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 2	test_accuracy_score: 0.9977011494252873
+Epoch: 2	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 3	test_accuracy_score: 0.9977011494252873
+Epoch: 3	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 4	test_accuracy_score: 0.9977011494252873
+Epoch: 4	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 5	test_accuracy_score: 0.9977011494252873
+Epoch: 5	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 6	test_accuracy_score: 0.9977011494252873
+Epoch: 6	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 7	test_accuracy_score: 0.9977011494252873
+Epoch: 7	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 8	test_accuracy_score: 0.9977011494252873
+Epoch: 8	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 9	test_accuracy_score: 0.9977011494252873
+Epoch: 9	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 10	test_accuracy_score: 0.9977011494252873
+Epoch: 10	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 11	test_accuracy_score: 0.9977011494252873
+Epoch: 11	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 12	test_accuracy_score: 0.9977011494252873
+Epoch: 12	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 13	test_accuracy_score: 0.9977011494252873
+Epoch: 13	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 14	test_accuracy_score: 0.9977011494252873
+Epoch: 14	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 15	test_accuracy_score: 0.9977011494252873
+Epoch: 15	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 16	test_accuracy_score: 0.9977011494252873
+Epoch: 16	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 17	test_accuracy_score: 0.9977011494252873
+Epoch: 17	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 18	test_accuracy_score: 0.9977011494252873
+Epoch: 18	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 19	test_accuracy_score: 0.9977011494252873
+Epoch: 19	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 20	test_accuracy_score: 0.9977011494252873
+Epoch: 20	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 21	test_accuracy_score: 0.9977011494252873
+Epoch: 21	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 22	test_accuracy_score: 0.9977011494252873
+Epoch: 22	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 23	test_accuracy_score: 0.9977011494252873
+Epoch: 23	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 24	test_accuracy_score: 0.9977011494252873
+Epoch: 24	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 25	test_accuracy_score: 0.9977011494252873
+Epoch: 25	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 26	test_accuracy_score: 0.9977011494252873
+Epoch: 26	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 27	test_accuracy_score: 0.9977011494252873
+Epoch: 27	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 28	test_accuracy_score: 0.9977011494252873
+Epoch: 28	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 29	test_accuracy_score: 0.9977011494252873
+Epoch: 29	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 30	test_accuracy_score: 0.9977011494252873
+Epoch: 30	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 31	test_accuracy_score: 0.9977011494252873
+Epoch: 31	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 32	test_accuracy_score: 0.9977011494252873
+Epoch: 32	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 33	test_accuracy_score: 0.9977011494252873
+Epoch: 33	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 34	test_accuracy_score: 0.9977011494252873
+Epoch: 34	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 35	test_accuracy_score: 0.9977011494252873
+Epoch: 35	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 36	test_accuracy_score: 0.9977011494252873
+Epoch: 36	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 37	test_accuracy_score: 0.9977011494252873
+Epoch: 37	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 38	test_accuracy_score: 0.9977011494252873
+Epoch: 38	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 39	test_accuracy_score: 0.9977011494252873
+Epoch: 39	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 40	test_accuracy_score: 0.9977011494252873
+Epoch: 40	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 41	test_accuracy_score: 0.9977011494252873
+Epoch: 41	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 42	test_accuracy_score: 0.9977011494252873
+Epoch: 42	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 43	test_accuracy_score: 0.9977011494252873
+Epoch: 43	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 44	test_accuracy_score: 0.9977011494252873
+Epoch: 44	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 45	test_accuracy_score: 0.9977011494252873
+Epoch: 45	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 46	test_accuracy_score: 0.9977011494252873
+Epoch: 46	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 47	test_accuracy_score: 0.9977011494252873
+Epoch: 47	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 48	test_accuracy_score: 0.9977011494252873
+Epoch: 48	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 49	test_accuracy_score: 0.9977011494252873
+Epoch: 49	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 50	test_accuracy_score: 0.9977011494252873
+Epoch: 50	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 51	test_accuracy_score: 0.9977011494252873
+Epoch: 51	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 52	test_accuracy_score: 0.9977011494252873
+Epoch: 52	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 53	test_accuracy_score: 0.9977011494252873
+Epoch: 53	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 54	test_accuracy_score: 0.9977011494252873
+Epoch: 54	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 55	test_accuracy_score: 0.9977011494252873
+Epoch: 55	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 56	test_accuracy_score: 0.9977011494252873
+Epoch: 56	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 57	test_accuracy_score: 0.9977011494252873
+Epoch: 57	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 58	test_accuracy_score: 0.9977011494252873
+Epoch: 58	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 59	test_accuracy_score: 0.9977011494252873
+Epoch: 59	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 60	test_accuracy_score: 0.9977011494252873
+Epoch: 60	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 61	test_accuracy_score: 0.9977011494252873
+Epoch: 61	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 62	test_accuracy_score: 0.9977011494252873
+Epoch: 62	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 63	test_accuracy_score: 0.9977011494252873
+Epoch: 63	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 64	test_accuracy_score: 0.9977011494252873
+Epoch: 64	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 65	test_accuracy_score: 0.9977011494252873
+Epoch: 65	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 66	test_accuracy_score: 0.9977011494252873
+Epoch: 66	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 67	test_accuracy_score: 0.9977011494252873
+Epoch: 67	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 68	test_accuracy_score: 0.9977011494252873
+Epoch: 68	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 69	test_accuracy_score: 0.9977011494252873
+Epoch: 69	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 70	test_accuracy_score: 0.9977011494252873
+Epoch: 70	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 71	test_accuracy_score: 0.9977011494252873
+Epoch: 71	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 72	test_accuracy_score: 0.9977011494252873
+Epoch: 72	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 73	test_accuracy_score: 0.9977011494252873
+Epoch: 73	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 74	test_accuracy_score: 0.9977011494252873
+Epoch: 74	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 75	test_accuracy_score: 0.9977011494252873
+Epoch: 75	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 76	test_accuracy_score: 0.9977011494252873
+Epoch: 76	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 77	test_accuracy_score: 0.9977011494252873
+Epoch: 77	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 78	test_accuracy_score: 0.9977011494252873
+Epoch: 78	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 79	test_accuracy_score: 0.9977011494252873
+Epoch: 79	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 80	test_accuracy_score: 0.9977011494252873
+Epoch: 80	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 81	test_accuracy_score: 0.9977011494252873
+Epoch: 81	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 82	test_accuracy_score: 0.9977011494252873
+Epoch: 82	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 83	test_accuracy_score: 0.9977011494252873
+Epoch: 83	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 84	test_accuracy_score: 0.9977011494252873
+Epoch: 84	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 85	test_accuracy_score: 0.9977011494252873
+Epoch: 85	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 86	test_accuracy_score: 0.9977011494252873
+Epoch: 86	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 87	test_accuracy_score: 0.9977011494252873
+Epoch: 87	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 88	test_accuracy_score: 0.9977011494252873
+Epoch: 88	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 89	test_accuracy_score: 0.9977011494252873
+Epoch: 89	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 90	test_accuracy_score: 0.9977011494252873
+Epoch: 90	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 91	test_accuracy_score: 0.9977011494252873
+Epoch: 91	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 92	test_accuracy_score: 0.9977011494252873
+Epoch: 92	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 93	test_accuracy_score: 0.9977011494252873
+Epoch: 93	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 94	test_accuracy_score: 0.9977011494252873
+Epoch: 94	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 95	test_accuracy_score: 0.9977011494252873
+Epoch: 95	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 96	test_accuracy_score: 0.9977011494252873
+Epoch: 96	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 97	test_accuracy_score: 0.9977011494252873
+Epoch: 97	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 98	test_accuracy_score: 0.9977011494252873
+Epoch: 98	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 99	test_accuracy_score: 0.9977011494252873
+Epoch: 99	test_average_metric: macro	test_f1_score: 0.997701122090235
+CAGE log:	n_classes: 3	n_LFs: 15	n_epochs: 100	lr: 0.01
+Epoch: 0	test_accuracy_score: 0.9977011494252873
+Epoch: 0	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 1	test_accuracy_score: 0.9977011494252873
+Epoch: 1	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 2	test_accuracy_score: 0.9977011494252873
+Epoch: 2	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 3	test_accuracy_score: 0.9977011494252873
+Epoch: 3	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 4	test_accuracy_score: 0.9977011494252873
+Epoch: 4	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 5	test_accuracy_score: 0.9977011494252873
+Epoch: 5	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 6	test_accuracy_score: 0.9977011494252873
+Epoch: 6	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 7	test_accuracy_score: 0.9977011494252873
+Epoch: 7	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 8	test_accuracy_score: 0.9977011494252873
+Epoch: 8	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 9	test_accuracy_score: 0.9977011494252873
+Epoch: 9	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 10	test_accuracy_score: 0.9977011494252873
+Epoch: 10	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 11	test_accuracy_score: 0.9977011494252873
+Epoch: 11	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 12	test_accuracy_score: 0.9977011494252873
+Epoch: 12	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 13	test_accuracy_score: 0.9977011494252873
+Epoch: 13	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 14	test_accuracy_score: 0.9977011494252873
+Epoch: 14	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 15	test_accuracy_score: 0.9977011494252873
+Epoch: 15	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 16	test_accuracy_score: 0.9977011494252873
+Epoch: 16	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 17	test_accuracy_score: 0.9977011494252873
+Epoch: 17	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 18	test_accuracy_score: 0.9977011494252873
+Epoch: 18	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 19	test_accuracy_score: 0.9977011494252873
+Epoch: 19	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 20	test_accuracy_score: 0.9977011494252873
+Epoch: 20	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 21	test_accuracy_score: 0.9977011494252873
+Epoch: 21	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 22	test_accuracy_score: 0.9977011494252873
+Epoch: 22	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 23	test_accuracy_score: 0.9977011494252873
+Epoch: 23	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 24	test_accuracy_score: 0.9977011494252873
+Epoch: 24	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 25	test_accuracy_score: 0.9977011494252873
+Epoch: 25	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 26	test_accuracy_score: 0.9977011494252873
+Epoch: 26	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 27	test_accuracy_score: 0.9977011494252873
+Epoch: 27	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 28	test_accuracy_score: 0.9977011494252873
+Epoch: 28	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 29	test_accuracy_score: 0.9977011494252873
+Epoch: 29	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 30	test_accuracy_score: 0.9977011494252873
+Epoch: 30	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 31	test_accuracy_score: 0.9977011494252873
+Epoch: 31	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 32	test_accuracy_score: 0.9977011494252873
+Epoch: 32	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 33	test_accuracy_score: 0.9977011494252873
+Epoch: 33	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 34	test_accuracy_score: 0.9977011494252873
+Epoch: 34	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 35	test_accuracy_score: 0.9977011494252873
+Epoch: 35	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 36	test_accuracy_score: 0.9977011494252873
+Epoch: 36	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 37	test_accuracy_score: 0.9977011494252873
+Epoch: 37	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 38	test_accuracy_score: 0.9977011494252873
+Epoch: 38	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 39	test_accuracy_score: 0.9977011494252873
+Epoch: 39	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 40	test_accuracy_score: 0.9977011494252873
+Epoch: 40	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 41	test_accuracy_score: 0.9977011494252873
+Epoch: 41	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 42	test_accuracy_score: 0.9977011494252873
+Epoch: 42	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 43	test_accuracy_score: 0.9977011494252873
+Epoch: 43	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 44	test_accuracy_score: 0.9977011494252873
+Epoch: 44	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 45	test_accuracy_score: 0.9977011494252873
+Epoch: 45	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 46	test_accuracy_score: 0.9977011494252873
+Epoch: 46	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 47	test_accuracy_score: 0.9977011494252873
+Epoch: 47	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 48	test_accuracy_score: 0.9977011494252873
+Epoch: 48	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 49	test_accuracy_score: 0.9977011494252873
+Epoch: 49	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 50	test_accuracy_score: 0.9977011494252873
+Epoch: 50	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 51	test_accuracy_score: 0.9977011494252873
+Epoch: 51	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 52	test_accuracy_score: 0.9977011494252873
+Epoch: 52	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 53	test_accuracy_score: 0.9977011494252873
+Epoch: 53	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 54	test_accuracy_score: 0.9977011494252873
+Epoch: 54	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 55	test_accuracy_score: 0.9977011494252873
+Epoch: 55	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 56	test_accuracy_score: 0.9977011494252873
+Epoch: 56	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 57	test_accuracy_score: 0.9977011494252873
+Epoch: 57	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 58	test_accuracy_score: 0.9977011494252873
+Epoch: 58	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 59	test_accuracy_score: 0.9977011494252873
+Epoch: 59	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 60	test_accuracy_score: 0.9977011494252873
+Epoch: 60	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 61	test_accuracy_score: 0.9977011494252873
+Epoch: 61	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 62	test_accuracy_score: 0.9977011494252873
+Epoch: 62	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 63	test_accuracy_score: 0.9977011494252873
+Epoch: 63	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 64	test_accuracy_score: 0.9977011494252873
+Epoch: 64	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 65	test_accuracy_score: 0.9977011494252873
+Epoch: 65	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 66	test_accuracy_score: 0.9977011494252873
+Epoch: 66	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 67	test_accuracy_score: 0.9977011494252873
+Epoch: 67	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 68	test_accuracy_score: 0.9977011494252873
+Epoch: 68	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 69	test_accuracy_score: 0.9977011494252873
+Epoch: 69	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 70	test_accuracy_score: 0.9977011494252873
+Epoch: 70	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 71	test_accuracy_score: 0.9977011494252873
+Epoch: 71	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 72	test_accuracy_score: 0.9977011494252873
+Epoch: 72	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 73	test_accuracy_score: 0.9977011494252873
+Epoch: 73	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 74	test_accuracy_score: 0.9977011494252873
+Epoch: 74	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 75	test_accuracy_score: 0.9977011494252873
+Epoch: 75	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 76	test_accuracy_score: 0.9977011494252873
+Epoch: 76	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 77	test_accuracy_score: 0.9977011494252873
+Epoch: 77	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 78	test_accuracy_score: 0.9977011494252873
+Epoch: 78	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 79	test_accuracy_score: 0.9977011494252873
+Epoch: 79	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 80	test_accuracy_score: 0.9977011494252873
+Epoch: 80	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 81	test_accuracy_score: 0.9977011494252873
+Epoch: 81	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 82	test_accuracy_score: 0.9977011494252873
+Epoch: 82	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 83	test_accuracy_score: 0.9977011494252873
+Epoch: 83	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 84	test_accuracy_score: 0.9977011494252873
+Epoch: 84	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 85	test_accuracy_score: 0.9977011494252873
+Epoch: 85	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 86	test_accuracy_score: 0.9977011494252873
+Epoch: 86	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 87	test_accuracy_score: 0.9977011494252873
+Epoch: 87	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 88	test_accuracy_score: 0.9977011494252873
+Epoch: 88	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 89	test_accuracy_score: 0.9977011494252873
+Epoch: 89	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 90	test_accuracy_score: 0.9977011494252873
+Epoch: 90	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 91	test_accuracy_score: 0.9977011494252873
+Epoch: 91	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 92	test_accuracy_score: 0.9977011494252873
+Epoch: 92	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 93	test_accuracy_score: 0.9977011494252873
+Epoch: 93	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 94	test_accuracy_score: 0.9977011494252873
+Epoch: 94	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 95	test_accuracy_score: 0.9977011494252873
+Epoch: 95	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 96	test_accuracy_score: 0.9977011494252873
+Epoch: 96	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 97	test_accuracy_score: 0.9977011494252873
+Epoch: 97	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 98	test_accuracy_score: 0.9977011494252873
+Epoch: 98	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 99	test_accuracy_score: 0.9977011494252873
+Epoch: 99	test_average_metric: macro	test_f1_score: 0.997701122090235
+CAGE log:	n_classes: 3	n_LFs: 15	n_epochs: 100	lr: 0.01
+Epoch: 0	test_accuracy_score: 0.9977011494252873
+Epoch: 0	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 1	test_accuracy_score: 0.9977011494252873
+Epoch: 1	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 2	test_accuracy_score: 0.9977011494252873
+Epoch: 2	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 3	test_accuracy_score: 0.9977011494252873
+Epoch: 3	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 4	test_accuracy_score: 0.9977011494252873
+Epoch: 4	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 5	test_accuracy_score: 0.9977011494252873
+Epoch: 5	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 6	test_accuracy_score: 0.9977011494252873
+Epoch: 6	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 7	test_accuracy_score: 0.9977011494252873
+Epoch: 7	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 8	test_accuracy_score: 0.9977011494252873
+Epoch: 8	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 9	test_accuracy_score: 0.9977011494252873
+Epoch: 9	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 10	test_accuracy_score: 0.9977011494252873
+Epoch: 10	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 11	test_accuracy_score: 0.9977011494252873
+Epoch: 11	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 12	test_accuracy_score: 0.9977011494252873
+Epoch: 12	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 13	test_accuracy_score: 0.9977011494252873
+Epoch: 13	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 14	test_accuracy_score: 0.9977011494252873
+Epoch: 14	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 15	test_accuracy_score: 0.9977011494252873
+Epoch: 15	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 16	test_accuracy_score: 0.9977011494252873
+Epoch: 16	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 17	test_accuracy_score: 0.9977011494252873
+Epoch: 17	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 18	test_accuracy_score: 0.9977011494252873
+Epoch: 18	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 19	test_accuracy_score: 0.9977011494252873
+Epoch: 19	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 20	test_accuracy_score: 0.9977011494252873
+Epoch: 20	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 21	test_accuracy_score: 0.9977011494252873
+Epoch: 21	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 22	test_accuracy_score: 0.9977011494252873
+Epoch: 22	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 23	test_accuracy_score: 0.9977011494252873
+Epoch: 23	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 24	test_accuracy_score: 0.9977011494252873
+Epoch: 24	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 25	test_accuracy_score: 0.9977011494252873
+Epoch: 25	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 26	test_accuracy_score: 0.9977011494252873
+Epoch: 26	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 27	test_accuracy_score: 0.9977011494252873
+Epoch: 27	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 28	test_accuracy_score: 0.9977011494252873
+Epoch: 28	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 29	test_accuracy_score: 0.9977011494252873
+Epoch: 29	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 30	test_accuracy_score: 0.9977011494252873
+Epoch: 30	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 31	test_accuracy_score: 0.9977011494252873
+Epoch: 31	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 32	test_accuracy_score: 0.9977011494252873
+Epoch: 32	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 33	test_accuracy_score: 0.9977011494252873
+Epoch: 33	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 34	test_accuracy_score: 0.9977011494252873
+Epoch: 34	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 35	test_accuracy_score: 0.9977011494252873
+Epoch: 35	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 36	test_accuracy_score: 0.9977011494252873
+Epoch: 36	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 37	test_accuracy_score: 0.9977011494252873
+Epoch: 37	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 38	test_accuracy_score: 0.9977011494252873
+Epoch: 38	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 39	test_accuracy_score: 0.9977011494252873
+Epoch: 39	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 40	test_accuracy_score: 0.9977011494252873
+Epoch: 40	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 41	test_accuracy_score: 0.9977011494252873
+Epoch: 41	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 42	test_accuracy_score: 0.9977011494252873
+Epoch: 42	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 43	test_accuracy_score: 0.9977011494252873
+Epoch: 43	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 44	test_accuracy_score: 0.9977011494252873
+Epoch: 44	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 45	test_accuracy_score: 0.9977011494252873
+Epoch: 45	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 46	test_accuracy_score: 0.9977011494252873
+Epoch: 46	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 47	test_accuracy_score: 0.9977011494252873
+Epoch: 47	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 48	test_accuracy_score: 0.9977011494252873
+Epoch: 48	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 49	test_accuracy_score: 0.9977011494252873
+Epoch: 49	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 50	test_accuracy_score: 0.9977011494252873
+Epoch: 50	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 51	test_accuracy_score: 0.9977011494252873
+Epoch: 51	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 52	test_accuracy_score: 0.9977011494252873
+Epoch: 52	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 53	test_accuracy_score: 0.9977011494252873
+Epoch: 53	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 54	test_accuracy_score: 0.9977011494252873
+Epoch: 54	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 55	test_accuracy_score: 0.9977011494252873
+Epoch: 55	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 56	test_accuracy_score: 0.9977011494252873
+Epoch: 56	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 57	test_accuracy_score: 0.9977011494252873
+Epoch: 57	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 58	test_accuracy_score: 0.9977011494252873
+Epoch: 58	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 59	test_accuracy_score: 0.9977011494252873
+Epoch: 59	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 60	test_accuracy_score: 0.9977011494252873
+Epoch: 60	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 61	test_accuracy_score: 0.9977011494252873
+Epoch: 61	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 62	test_accuracy_score: 0.9977011494252873
+Epoch: 62	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 63	test_accuracy_score: 0.9977011494252873
+Epoch: 63	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 64	test_accuracy_score: 0.9977011494252873
+Epoch: 64	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 65	test_accuracy_score: 0.9977011494252873
+Epoch: 65	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 66	test_accuracy_score: 0.9977011494252873
+Epoch: 66	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 67	test_accuracy_score: 0.9977011494252873
+Epoch: 67	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 68	test_accuracy_score: 0.9977011494252873
+Epoch: 68	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 69	test_accuracy_score: 0.9977011494252873
+Epoch: 69	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 70	test_accuracy_score: 0.9977011494252873
+Epoch: 70	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 71	test_accuracy_score: 0.9977011494252873
+Epoch: 71	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 72	test_accuracy_score: 0.9977011494252873
+Epoch: 72	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 73	test_accuracy_score: 0.9977011494252873
+Epoch: 73	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 74	test_accuracy_score: 0.9977011494252873
+Epoch: 74	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 75	test_accuracy_score: 0.9977011494252873
+Epoch: 75	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 76	test_accuracy_score: 0.9977011494252873
+Epoch: 76	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 77	test_accuracy_score: 0.9977011494252873
+Epoch: 77	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 78	test_accuracy_score: 0.9977011494252873
+Epoch: 78	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 79	test_accuracy_score: 0.9977011494252873
+Epoch: 79	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 80	test_accuracy_score: 0.9977011494252873
+Epoch: 80	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 81	test_accuracy_score: 0.9977011494252873
+Epoch: 81	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 82	test_accuracy_score: 0.9977011494252873
+Epoch: 82	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 83	test_accuracy_score: 0.9977011494252873
+Epoch: 83	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 84	test_accuracy_score: 0.9977011494252873
+Epoch: 84	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 85	test_accuracy_score: 0.9977011494252873
+Epoch: 85	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 86	test_accuracy_score: 0.9977011494252873
+Epoch: 86	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 87	test_accuracy_score: 0.9977011494252873
+Epoch: 87	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 88	test_accuracy_score: 0.9977011494252873
+Epoch: 88	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 89	test_accuracy_score: 0.9977011494252873
+Epoch: 89	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 90	test_accuracy_score: 0.9977011494252873
+Epoch: 90	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 91	test_accuracy_score: 0.9977011494252873
+Epoch: 91	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 92	test_accuracy_score: 0.9977011494252873
+Epoch: 92	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 93	test_accuracy_score: 0.9977011494252873
+Epoch: 93	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 94	test_accuracy_score: 0.9977011494252873
+Epoch: 94	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 95	test_accuracy_score: 0.9977011494252873
+Epoch: 95	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 96	test_accuracy_score: 0.9977011494252873
+Epoch: 96	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 97	test_accuracy_score: 0.9977011494252873
+Epoch: 97	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 98	test_accuracy_score: 0.9977011494252873
+Epoch: 98	test_average_metric: macro	test_f1_score: 0.997701122090235
+Epoch: 99	test_accuracy_score: 0.9977011494252873
+Epoch: 99	test_average_metric: macro	test_f1_score: 0.997701122090235
